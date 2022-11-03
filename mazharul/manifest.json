@@ -1,0 +1,16 @@
+{
+  "id": 81,
+  "name": "mazharul",
+  "description": "this is test package",
+  "slug": "mazharul",
+  "author": "Mazharul",
+  "dir": "mazharul",
+  "email": "test@test.com",
+  "uri": "https://incevio.com",
+  "license": "Copyright reserved to the Incevio",
+  "provider": "Mazharul\\MazharulPackageProvider",
+  "active": false,
+  "dependency": "",
+  "compatible": "2.6.6",
+  "version": "1.0.0"
+}
